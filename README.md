@@ -24,7 +24,7 @@ The project demonstrated a clear advantage of using semantic features over struc
 
 The findings confirm that the **semantic structures** embedded in the textual content—not just simple length characteristics—are essential for effective fake news detection. The study contributes a systematic comparison of feature engineering strategies, providing evidence that classical machine learning models, when combined with robust text preprocessing, can achieve high accuracy in this domain.
 
-##Pipline
+# Pipline
 
 The project's, fake news detection, framework follows a **five-stage architecture** designed to transform raw textual data into a high-dimensional semantic representation suitable for machine learning classification.
 
